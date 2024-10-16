@@ -1,0 +1,133 @@
+.Websitetitle {
+	color: white;
+	background-color: #d79e8e;
+	h1 {margin: 10px}
+}
+
+body {
+	background-color: #eedcd3;
+}
+
+.website1pic {;
+	display: flex;
+	column-gap: 10px;
+	justify-content: center;
+}
+
+.extradesignline {
+	background-color: white;
+	color: #d79e8e;
+}
+
+.きれい {
+
+    background-color: #d79e8e;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+   }
+
+.collectiondisplay{
+	display: flex;
+	column-gap: 40px;
+	justify-content: center;
+
+	figcaption {
+	color:#d79e8e ;
+	font-size: 30px;
+	text-align: center;
+}
+
+}
+
+.nextset {
+
+	display: flex;
+	column-gap: 40px;
+	justify-content: center;
+
+	figcaption {
+	color:#d79e8e ;
+	font-size: 30px;
+	text-align: CENTER;
+}
+}
+
+.shoppingtime {
+	background-color: #d79e8e;
+	border: 5px dotted white;
+}
+
+.shopping {
+	color: #d79e8e ;
+	font-size: 50px;
+	text-align: CENTER;
+
+}
+
+.primers {
+	display: flex;
+	column-gap: 40px;
+	justify-content: center;
+	text-align: center;
+	color: #A7585A;
+	font-size: 40px;
+}
+
+.POWERRANGERS {
+	text-align: center;
+	font-size: 30px;
+}
+
+.powderss {
+	display: flex;
+	column-gap: 40px;
+	justify-content: center;
+	text-align: center;
+	font-size: 40px;
+	color: #A7585A;
+}
+
+.primar {
+text-align: center;
+font-size: 30px;
+
+}
+
+}
+
+ul {
+	color: #d79e8e;
+	font-size: 20px;
+}
+
+.LIGHT {
+	text-align: center;
+	font-size: 30px;
+}
+
+.HIGH {
+	display: flex;
+	column-gap: 40px;
+	justify-content: center;
+	text-align: center;
+	font-size: 40px;
+	color: #A7585A;
+}
+
+.account {
+	font-size: 30px;
+	text-align: center;
+}
+
+.about {
+	text-align: center;
+	color: #A7585A;
+	font-size: 30px;
+}
+
+.list {
+    text-align: center;
+    color: #A7585A;
+    font-size: 30px;
+}
